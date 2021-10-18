@@ -20,7 +20,8 @@ The Fintech analyst is tasked with evaluating four new investment options for in
 # Technology
 Jupyter notebook that contains data preparation, analysis, and visualizations for key risk and return metrics. 
 GitHub repository
-Python 
+Python
+
 ## libraries used in the analysis
 
 •	A single DataFrame imported from a CSV file that has a DateTimeIndex.

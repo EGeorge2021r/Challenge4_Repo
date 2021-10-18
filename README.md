@@ -14,7 +14,7 @@ Reason: To keep the costs low, through the use of algorithms to build each clien
 
 # General information about the analysis
 
-
+The Fintech analyst is tasked with evaluating four new investment options for inclusion in the client portfolios. The anlyst will need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
 
 # Technology
